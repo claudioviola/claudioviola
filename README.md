@@ -42,23 +42,18 @@ I'm a passionate **UX Frontend Development** with experience in ** Typescript | 
 ## Featured Projects 💻
 
 ### [ParkHere App](https://play.google.com/store/apps/details?id=de.parkhere.work&hl=it)
-
-![Project 1 Screenshot](https://play-lh.googleusercontent.com/s-FY4goFmiR17dINgmNuaP0q62bH032utVHdnqpiXK-Hs4HrU2VWBQLzrJrZJawG4k7w=w5120-h2880-rw)
-
 **[ParkHere App]** is a **B2B Smart Parking App** built with **EXPO**. This project demonstrates my ability to **[to scale a mobile app from 0 to market leader]**.
 
 
 ### [CoinUp](project_2_link)
-
-![CoinUp Category Grid Screen](https://imgur.com/a/1JeEPkG)
-
 **[CoinUp]** is a **[Personal Finance App]** built with **Expo | SQlite**. This project demonstrates my passion **[to experiment with new technologies and test new architecture solutions]**.
+![CoinUp Category Grid Screen](https://i.imgur.com/5TLupE4.png)
 
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(https://www.claudioviola.net/)
 - **[LinkedIn]**(https://www.linkedin.com/in/claudioviola/)
-- **[Mediu]**(https://medium.com/@violaclaudio)
+- **[Medium]**(https://medium.com/@violaclaudio)
 
 
 
